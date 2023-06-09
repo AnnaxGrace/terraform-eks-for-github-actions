@@ -1,14 +1,6 @@
-<img src="./assets/TEKsystems_brandmark_CMYK.png"
-     alt="Teksystems brandmark"
-     style="margin-right: 10px; height: 50px;" />
-<img src="./assets/GS_Stacked_Edited.png"
-     alt="Teksystems GS logo"
-     style="margin-right: 10px; width: 130px;" />
 
-<br/>
-<br/>
 
-# EKS TF POC Module for Platform Agility within Business Modernization
+# Learning for GitHub Actions
 
 ## Description
 This is a Terraform accelerator including a module that builds a proof of concept (POC) Elastic Kubernetes Service (EKS) cluster.
