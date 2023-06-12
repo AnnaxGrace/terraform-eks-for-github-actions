@@ -45,6 +45,3 @@ module eks_cluster {
 output "master_cluster_name_arn" {
   value = module.eks_cluster 
 }
-
-
-
